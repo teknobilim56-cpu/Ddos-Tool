@@ -15,7 +15,7 @@ Güçlü, çoklu vektör destekli, cross-platform DDoS aracı. Python 3 ile yaz�
 ## Kurulum
 
 ```bash
-git clone https://github.com/kullanici/ddos-tool.git
+git clone https://github.com/teknobilim56-cpu/ddos-tool.git
 cd ddos-tool
 python ddos.py --about
 ```

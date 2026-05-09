@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+*.log
+*.tmp
+venv/
+.env
+*.egg-info/
+dist/
+build/
+*.swp
+.DS_Store
+Thumbs.db
+*.sublime-*
+.vscode/
+.idea/
